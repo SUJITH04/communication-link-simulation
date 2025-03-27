@@ -1,4 +1,5 @@
 ### EXPT NO.08 COMMUNICATION LINK SIMULATION
+### DATE :
 ### AIM:
 To implement communication link simulation algorithms using SCILAB.
 
